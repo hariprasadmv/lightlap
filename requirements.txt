@@ -1,0 +1,4 @@
+requirements:
+install sensor node free app in your mobile
+install wmi via pip : pip install wmi
+install pywin32 if needed
